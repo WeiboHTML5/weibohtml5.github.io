@@ -1,6 +1,6 @@
 {
   "name": "weibo-html5-blog",
-  "version": "1.0.0",
+  "version": "2.5.2",
   "private": true,
   "dependencies": {
     "hexo-renderer-jade": "0.0.2"

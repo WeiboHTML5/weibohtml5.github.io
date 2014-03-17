@@ -3,10 +3,10 @@
 ## Source: https://github.com/tommy351/hexo/
 
 # Site
-title: 手机微博前端团队
+title: 手机微博前端团队博客
 subtitle:
 description:
-author: m.weibo.cn 前端团队
+author: 手机微博 m.weibo.cn 前端团队
 email:
 language: zh-CN
 
@@ -96,7 +96,7 @@ markdown:
 
 # Stylus
 stylus:
-  compress: false
+  compress: true
 
 # Deployment
 ## Docs: http://zespia.tw/hexo/docs/deployment.html
